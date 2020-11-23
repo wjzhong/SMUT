@@ -43,7 +43,7 @@ SMUT method leverages intersection-union test (IUT) to decompose mediation effec
 ### 2.1 Mediator model
 
 $$M = \alpha_1 + X\iota^M + G\beta + \epsilon_1$$
-where $M$ is a $n$ by $1$ vector of the mediator, $\alpha_1$ is the intercept, $G$ is a $n$ by $q$ matrix of the SNPs data, $\beta$ is a $q$ by $1$ vector of SNPs' effects on the mediator, $X$ is a $n$ by $p$ matrix of covariates data,$\iota^M$ is a $p$ by $1$ vector of covariates effects' on the mediator, $\epsilon_1$ is a $n$ by $1$ vector of error terms in the mediator model.
+where $M$ is a $n$ by $1$ vector of the mediator, $\alpha_1$ is the intercept, $G$ is a $n$ by $q$ matrix of the SNPs data, $\beta$ is a $q$ by $1$ vector of SNPs' effects on the mediator, $X$ is a $n$ by $p$ matrix of covariates data, $\iota^M$ is a $p$ by $1$ vector of covariates effects' on the mediator, $\epsilon_1$ is a $n$ by $1$ vector of error terms in the mediator model.
 
 ### 2.2 Outcome model
 
